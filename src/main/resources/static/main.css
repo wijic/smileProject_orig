@@ -1,0 +1,13 @@
+form {
+    border: thin solid #888;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
